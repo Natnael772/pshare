@@ -12,4 +12,4 @@
   on the cloud.
 - They can make their images either public or private.
 - If public, They can share their images publicly to other users.
-- If private, they can upload private images that can't be viewed by other users.
+- If private, Their images can't be viewed by someone else.
