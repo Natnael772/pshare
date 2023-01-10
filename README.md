@@ -15,3 +15,5 @@
 - If private, Their images can't be viewed by someone else.
 - They can download images shared by another users.
 - They can like and comment on the images.
+
+# Tech Stacks
