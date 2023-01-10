@@ -4,7 +4,7 @@
 
 # Description
 
-- Our project is image sharing and social media platform.
+- This image sharing and social media platform.
   It is designed to enable storing and sharing of images across the internet.
 
 - Users will have their own account.
