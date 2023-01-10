@@ -17,3 +17,5 @@
 - They can like and comment on the images.
 
 # Tech Stacks
+
+# Attacks to be defended
