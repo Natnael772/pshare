@@ -4,9 +4,10 @@
 
 # Description
 
-- This project is image sharing and social media platform.
+- This project is image sharing and social media platform. 
   It is designed to enable storing and sharing of images across the internet.
 
+# Features
 - Users will have their own account.
 - They are able to store their own images
   on the cloud.
