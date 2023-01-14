@@ -26,6 +26,6 @@
   - Mysql, Sequelize 
   
 # Attacks that the website is intended to defend
-- XSS( Cross site scripting attack)
--
+- SQL Injection attack
+- 
 -
