@@ -19,8 +19,13 @@
 
 # Tech Stacks
 - Frontend
- -Reactjs, CSS
+  - Reactjs, CSS
 - Backend
- - Nodejs, Express
+  - Nodejs, Express
+- Database
+  - Mysql, Sequelize 
   
-# Attacks to be defended
+# Attacks that the website is intended to defend
+- XSS( Cross site scripting attack)
+-
+-
