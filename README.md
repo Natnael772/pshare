@@ -18,5 +18,9 @@
 - They can like and comment on the images.
 
 # Tech Stacks
-
+- Frontend
+ -Reactjs, CSS
+- Backend
+ - Nodejs, Express
+  
 # Attacks to be defended
