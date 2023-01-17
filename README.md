@@ -5,7 +5,8 @@
 # Description
 
 - This project is image sharing and social media platform. 
-  It is designed to enable storing and sharing of images across the internet.
+- It is designed to enable storing and sharing of images across the internet.
+- It is a project made for our cloud computing course.
 
 # Features
 - Users will have their own account.
