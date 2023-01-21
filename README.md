@@ -24,7 +24,7 @@
 - Backend
   - Nodejs, Express
 - Database
-  - Mysql, Sequelize 
+  - Mysql, Sequelize(ORM)
   
 # Attacks that the website is intended to defend
 
