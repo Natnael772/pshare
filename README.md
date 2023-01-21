@@ -8,7 +8,7 @@
 - It is designed to enable storing and sharing of images across the internet.
 - It is a project made for our cloud computing course.
 
-# Features
+# Functionalities
 - Users will have their own account.
 - They are able to store their own images
   on the cloud.
@@ -27,6 +27,4 @@
   - Mysql, Sequelize 
   
 # Attacks that the website is intended to defend
-- SQL Injection attack
-- 
--
+
